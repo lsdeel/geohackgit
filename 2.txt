@@ -1,3 +1,9 @@
 This is my second file.
 
+<<<<<<< HEAD
 This is a line to be integrated.
+=======
+Great job!  
+
+That coffee was great!
+>>>>>>> 8eb5f39cd3c29507be6b8d988376702573f4b37e
